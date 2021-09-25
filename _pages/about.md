@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About
-permalink: /
+permalink: /about/
 author_profile: false
 ---
 <img align="right" src="https://avatars.githubusercontent.com/u/57921137?v=4" style="margin: 0px 10px;width:150px;border-radius:75%;" />
