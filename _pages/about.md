@@ -3,9 +3,8 @@ layout: single
 title: Dr. Jianhui Xu
 permalink: /jianhuixu/
 author_profile: false
+toc: true
 ---
-
-# About
 
 <img align="right" src="https://avatars.githubusercontent.com/u/57921137?v=4" style="margin: 0px 10px;width:150px;border-radius:75%;" />
 My name is **Jianhui** and I'm a researcher ([Google Scholar](https://scholar.google.com/citations?hl=en&user=Q_3Ayi8AAAAJ&view_op=list_works&sortby=pubdate)) at the [Technische Universität München](https://www.tum.de/). Before this, I worked as a Research Scientist in the Department of Methods for Characterization of Transport Phenomena in Energy Materials and Quantum Phenomena in Novel Materials of [Helmholtz-Zentrum Berlin](https://www.helmholtz-berlin.de/). I have obtained my Ph.D degree in condensed matter physics in Department of Physics of [Technische Universität Berlin](https://www.tu.berlin/), Germany.
@@ -18,13 +17,11 @@ My interest is in quantum phenomena in novel materials, especially strongly corr
 
 # Academic Highlights
 
-- Journal papers 24, total impact factor 200
-- First author papers 12 , total impact factor 170
-- Citations 350+, h-index 8
+- Journal papers 24, total impact factor 172
+- First author papers 12, total impact factor 33
+- Citations 250+, h-index 8
  
-
 # Research Projects
-============================================
 
 ## Current projects
 1. Disorder in geometrical frustrated magnets 
