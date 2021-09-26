@@ -1,10 +1,8 @@
 ---
-layout: single
-title: Research
+title: research
+layout: collection
 permalink: /research/
-classes_: wide
-toc: false
-toc_sticky: true
-toc_icon: scroll
-author_profile: true
+collection: research
+entries_layout: grid
+classes: wide
 ---
