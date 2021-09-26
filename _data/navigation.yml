@@ -1,16 +1,16 @@
 # main links
 main:
    - title: "Dr Jianhui Xu"
-     url: /jianhuixu/
-   - title: "Portfolio"
-     url: /portfolio/    
+     url: /jianhuixu/   
    - title: "Research"
      url: /research/
    - title: "Projects"
      url: /projects/
+  # - title: "Portfolio"
+  #   url: /portfolio/ 
   # - title: "Categories"
   #   url: /categories/
-     #- title: "Tags"
-     #url: /tags/
+  # - title: "Tags"
+  #   url: /tags/
   # - title: "Sitemap"
   #   url: /sitemap/
