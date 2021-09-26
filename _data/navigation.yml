@@ -2,6 +2,8 @@
 main:
    - title: "Dr Jianhui Xu"
      url: /jianhuixu/
+   - title: "Portfolio"
+     url: /portfolio/    
    - title: "Research"
      url: /research/
    - title: "Projects"
