@@ -1,5 +1,5 @@
 ---
-title: Some of my research works:
+title: Researches
 layout: collection
 permalink: /researches/
 collection: researches
