@@ -2,12 +2,15 @@
 layout: single
 title: Dr. Jianhui Xu
 permalink: /jianhuixu/
-author_profile: false
+author_profile: true
 toc: true
 ---
-
+<!---
 <img align="right" src="https://avatars.githubusercontent.com/u/57921137?v=4" style="margin: 0px 10px;width:150px;border-radius:75%;" />
-My name is **Jianhui Xu** and I'm a researcher ([CV](https://jh-xu.github.io/jianhui-xu.github.io/cv.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=Q_3Ayi8AAAAJ&view_op=list_works&sortby=pubdate)) at the [Technische Universität München](https://www.tum.de/). Before this, I worked as a Research Scientist in the Department of Methods for Characterization of Transport Phenomena in Energy Materials and Quantum Phenomena in Novel Materials of [Helmholtz-Zentrum Berlin](https://www.helmholtz-berlin.de/). I have obtained my Ph.D degree in condensed matter physics in Department of Physics of [Technische Universität Berlin](https://www.tu.berlin/), Germany.
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=Q_3Ayi8AAAAJ&view_op=list_works&sortby=pubdate))
+-->
+
+My name is **Jianhui Xu** and I'm a researcher ([CV](https://jh-xu.github.io/jianhui-xu.github.io/cv.pdf),  at the [Technische Universität München](https://www.tum.de/). Before this, I worked as a Research Scientist in the Department of Methods for Characterization of Transport Phenomena in Energy Materials and Quantum Phenomena in Novel Materials of [Helmholtz-Zentrum Berlin](https://www.helmholtz-berlin.de/). I have obtained my Ph.D degree in condensed matter physics in Department of Physics of [Technische Universität Berlin](https://www.tu.berlin/), Germany.
 
 # Research Interests
 
