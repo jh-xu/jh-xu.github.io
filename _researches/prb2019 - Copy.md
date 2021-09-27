@@ -15,7 +15,7 @@ feature_row1:
       url: /assets/images/spin_water_ice.png
       alt: "placeholder image 1"
       excerpt: "Spin ice and water ice."
-	  
+ 
 feature_row2:
     - image_path: assets/images/spin_water_ice.png
       url: /assets/images/spin_water_ice.png
