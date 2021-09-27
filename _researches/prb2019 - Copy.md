@@ -17,8 +17,8 @@ feature_row1:
       excerpt: "Spin ice and water ice."
  
 feature_row2:
-    - image_path: assets/images/spin_water_ice.png
-      url: /assets/images/spin_water_ice.png
+    - image_path: assets/images/nzo_spinw_fit.png
+      url: /assets/images/nzo_spinw_fit.png
       alt: "placeholder image 2"
       excerpt: "Neutron scattering data and simulations"
 
