@@ -121,7 +121,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - _research
+  - _researches
   - _portfolio
   - _posts
 exclude:
@@ -184,10 +184,10 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+#timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -239,7 +239,7 @@ whitelist:
 
 # Collections
 collections:
-  research:
+  researches:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -270,7 +270,7 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: research
+      type: researches
     values:
       layout: single
       author_profile: false

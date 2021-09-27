@@ -1,8 +1,8 @@
 ---
 title: Some of my research works:
 layout: collection
-permalink: /research/
-collection: research
+permalink: /researches/
+collection: researches
 entries_layout: grid
 classes: wide
 ---
