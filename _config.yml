@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - _research
+  - _portfolio
   - _posts
 exclude:
   - "*.sublime-project"
@@ -241,6 +242,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -267,6 +271,14 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: false
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
     values:
       layout: single
       author_profile: true
