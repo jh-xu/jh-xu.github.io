@@ -12,15 +12,15 @@ sidebar:
 
 feature_row1:
     - image_path: assets/images/spin_water_ice.png
-	  url: /assets/images/spin_water_ice.png
+      url: /assets/images/spin_water_ice.png
       alt: "placeholder image 1"
       excerpt: "Spin ice and water ice."
 	  
 feature_row2:
     - image_path: assets/images/spin_water_ice.png
-	  url: /assets/images/spin_water_ice.png
+      url: /assets/images/spin_water_ice.png
       alt: "placeholder image 2"
-	  excerpt: "Neutron scattering data and simulations"
+      excerpt: "Neutron scattering data and simulations"
 
 # Ice could be the most common substance in our life. However, it has many striking physical properties. For example, the density of ice is approximately 90% of water, 
 ---
