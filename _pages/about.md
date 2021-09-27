@@ -4,6 +4,7 @@ title: Dr. Jianhui Xu
 permalink: /jianhuixu/
 author_profile: true
 toc: true
+toc_sticky: true
 ---
 <!---
 <img align="right" src="https://avatars.githubusercontent.com/u/57921137?v=4" style="margin: 0px 10px;width:150px;border-radius:75%;" />
