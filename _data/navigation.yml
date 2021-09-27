@@ -1,7 +1,9 @@
 # main links
 main:
-   - title: "Dr Jianhui Xu"
-     url: /jianhuixu/   
+   - title: "Home"
+    url: /
+   - title: "About"
+     url: /about/   
    - title: "Research"
      url: /researches/
    - title: "Posts"

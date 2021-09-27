@@ -5,4 +5,5 @@ permalink: /researches/
 collection: researches
 entries_layout: grid
 classes: wide
+author_profile: true
 ---
