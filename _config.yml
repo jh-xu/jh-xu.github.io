@@ -267,7 +267,7 @@ defaults:
       comments: # true
       share: false
       related: true
-  # _research
+  # _researches
   - scope:
       path: ""
       type: researches
