@@ -273,16 +273,16 @@ defaults:
       type: research
     values:
       layout: single
-      author_profile: true
-      share: false
+      author_profile: false
+      share: true
   # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: false
+      author_profile: false
+      share: true
 
 head_scripts:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML
