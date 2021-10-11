@@ -19,16 +19,16 @@ Here is an example. We used neutron scattering experiments and mean field, Monte
 ## Academic Highlights
 
 - Journal papers: 24, including Nature Physics, Science Advances, Physical Review Letters.
-- Total citations: 250+, h-index: 8 (Google Scholar)
+- Total citations: 270+, h-index: 9 (Google Scholar)
 
 ## Publications
 
 <ol reversed>
     <li> Yayuan Qin, Yao Shen, Changle Liu, Hongliang Wo, Yonghao Gao, Yu Feng, Xiaowen Zhang, Gaofeng Ding, Yiqing Gu, Qisi Wang, Shoudong Shen, Helen C. Walker, Robert Bewley,  <b>Jianhui Xu</b>, Martin Boehm, Paul Steffens, Seiko Ohira-Kawamura, Naoki Murai, Astrid Schneidewind, Xin Tong, Gang Chen, Jun Zhao, <i>Field-Tuned Quantum Effects in a Triangular-Lattice Ising Magnet</i>, <a href="https://arxiv.org/abs/2011.09376">arXiv:2011.09376</a>.</li>
-
-    <li> S. E. Nikitin, A. Podlesnyak, <b>Jianhui Xu</b>, D. Voneshen, M. Duc Le, S. L. Bud'ko, P. C. Canfield, D. A. Sokolov, <i>Magnetic field-induced softening of spin waves and hard-axis order in Kondo-lattice ferromagnet CeAgSb<sub>2</sub></i>, <a href="https://arxiv.org/abs/2103.15137">arXiv:2103.15137</a>.</li>
-
+	
     <li> Florian Landolt, Zewu Yan, Severian Gvasaliya, Ketty Beauvois, Eric Ressouche, <b>Jianhui Xu</b>, Andrey Zheludev, <i>Phase diagram and spin waves in the frustrated ferro-antiferromagnet SrZnVO(PO<sub>4</sub>)<sub>2</sub></i>, <a href="https://arxiv.org/abs/2107.06114">arXiv:2107.06114</a>.</li>
+	
+    <li> S. E. Nikitin, A. Podlesnyak, <b>Jianhui Xu</b>, D. Voneshen, M. Duc Le, S. L. Bud'ko, P. C. Canfield, D. A. Sokolov, <i>Magnetic field-induced softening of spin waves and hard-axis order in Kondo-lattice ferromagnet CeAgSb<sub>2</sub></i>, <a href="https://journals.aps.org/prb/pdf/10.1103/PhysRevB.104.115169">Phys. Rev. B 104, 115169 (2021)</a>.</li>
 
     <li> Fengfeng Zhu, Lichuan Zhang, Xiao Wang, Flaviano José dos Santos, Junda Song, Thomas Müller, Karin Schmalzl, Wolfgang F. Schmidt, Alexandre Ivanov, Jitae T. Park, <b>Jianhui Xu</b>, Jie Ma, Samir Lounis, Stefan Blügel, Yuriy Mokrousov, Yixi Su, Thomas Brückel, <i>Topological magnon insulators in two-dimensional van der Waals ferromagnets CrSiTe<sub>3</sub> and CrGeTe<sub>3</sub>: towards intrinsic gap-tunability</i>, <a href="https://www.science.org/doi/10.1126/sciadv.abi7532">Sci. Adv. 7, eabi7532(2021)</a>.</li>
 
