@@ -20,7 +20,7 @@ title                    : "Jianhui Xu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jianhui Xu"
-description              : "Physics, simulation and machine learning"
+description              : "Physics, modeling and machine learning"
 url                      : # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -251,6 +251,7 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
+# Xu: https://github.com/mmistakes/minimal-mistakes/discussions/3664
 category_archive:
   type: liquid
   path: /categories/
@@ -259,15 +260,34 @@ tag_archive:
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+  # enabled:
+    # - categories
+    # - tags
+  # layouts:
+    # category: archive-taxonomy
+    # tag: archive-taxonomy
+  # permalinks:
+    # category: /categories/:name/
+    # tag: /tags/:name/
+    
+# category_archive:
+  # type: jekyll-archives
+  # path: /categories/
+# tag_archive:
+  # type: jekyll-archives
+  # path: /tags/
+  
+# jekyll-archives:
+  # enabled:
+    # - categories
+    # - tags
+  # layouts:
+    # category: archive-taxonomy
+    # tag: archive-taxonomy
+  # permalinks:
+    # category: /categories/:name/
+    # tag: /tags/:name/
+
 
 
 # HTML Compression
@@ -288,6 +308,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false

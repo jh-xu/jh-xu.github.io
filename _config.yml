@@ -14,7 +14,7 @@ locale                   : "en"
 title                    : "Jianhui Xu"
 title_separator          : "-"
 name                     : "Jianhui Xu"
-description              : "Physics, simulations and machine learning"
+description              : "Physicist with a Ph.D. degree"
 logo                     : "/assets/images/site_logo.png"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : Jianhui Xu # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -53,7 +53,9 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
+  hide                   : true
   path                   : # blank (default) uses feed.xml
+
 
 # SEO Related
 google_site_verification :
@@ -125,7 +127,7 @@ author:
   avatar           : "/assets/images/portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD in Physics"
   location         : "Munich"
-  email            : "jhxupku@gmail.com"
+  email            : "j.h.xu@outlook.com" #"jhxupku@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -256,12 +258,12 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-# category_archive:
-  # type: liquid
-  # path: /categories/
-# tag_archive:
-  # type: liquid
-  # path: /tags/
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -298,9 +300,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: true
+      comments: false
       share: false
-      related: true
+      related: false
       mathjax: true
   # _researches
   - scope:
@@ -309,8 +311,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
 
 head_scripts:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML

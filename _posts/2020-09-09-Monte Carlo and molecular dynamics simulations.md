@@ -7,6 +7,7 @@ date: September 09, 2020
 toc: true
 toc_sticky: true
 toc_label: "Content"
+comments: false
 tags:
   - Monte Carlo
   - Simulated annealing
@@ -257,7 +258,7 @@ We integrate the Equation of motion numerically using the [Runge–Kutta fourth 
 
 {% highlight python %} 
 {% raw %}
-# Deriv calculation 
+# Derivative calculation 
 def deriv(J, H, S):
     """
     Deriv dS/dt calculation

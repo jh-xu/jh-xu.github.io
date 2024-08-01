@@ -8,18 +8,18 @@ toc: false
 toc_sticky: true
 ---
 
-I'm a researcher ([CV](https://jh-xu.github.io/jianhui-xu.github.io/cv.pdf)) at the [RWTH Aachen University](https://www.ifk.rwth-aachen.de/cms/IFK/Das-Institut/Mitarbeiter/Aussenstelle-im-MLZ-FRM-II-Garching/~sqpzl/Jianhui-Xu/lidx/1/). Before this, I worked as a Research Scientist in [Helmholtz-Zentrum Berlin](https://www.helmholtz-berlin.de/) and [Technische Universität München](https://www.tum.de/). I have obtained my Ph.D degree in condensed matter physics in Department of Physics of [Technische Universität Berlin](https://www.tu.berlin/), Germany.
+I'm a senior researcher ([CV](https://jh-xu.github.io/jianhui-xu.github.io/cv.pdf)) at the [RWTH Aachen University](https://www.ifk.rwth-aachen.de/cms/IFK/Das-Institut/Mitarbeiter/Aussenstelle-im-MLZ-FRM-II-Garching/~sqpzl/Jianhui-Xu/lidx/1/). Before this, I worked as a Research Scientist in [Helmholtz-Zentrum Berlin](https://www.helmholtz-berlin.de/) and [Technische Universität München](https://www.tum.de/). I have obtained my Ph.D degree in condensed matter physics in Department of Physics of [Technische Universität Berlin](https://www.tu.berlin/), Germany.
 
 ## Scientific Research
 
 I investigate quantum phenomena in magnetic materials: discover novel states and properties of matter; test and challenge the current theory we are relying on for understanding. Nearly half of my time is spent on conceiving new projects, designing and performing effective experiments and the other half spent on analysing data, testing theoretical models and developing new theories together with theoreticians. 
 
-Here is an example. We used neutron scattering experiments and mean field, Monte Carlo and numerically connected cluster expansion to study and understand the properties of Nd<sub>2</sub>Zr<sub>2</sub>O<sub>7</sub> which contains the magnetic ion Nd<sup>3+</sup> forming a network of corner sharing tetrahedra with competing interactions and discovered quantum spin ice state and Higgs transition ([published here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.097203))
+Here is an example. We used neutron scattering experiments and mean field, Monte Carlo and numerically connected cluster expansion to study and understand the properties of Nd<sub>2</sub>Zr<sub>2</sub>O<sub>7</sub> which contains the magnetic ion Nd<sup>3+</sup> forming a network of corner sharing tetrahedra with competing interactions and discovered quantum spin ice state and Higgs transition ([published here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.097203)).
 
 ## Academic Highlights
 
 - Journal papers: 29, including Nature Physics, Science Advances, Physical Review Letters.
-- Total citations: 530+, h-index: 13 ([Google Scholar](https://scholar.google.de/citations?user=Q_3Ayi8AAAAJ&hl=de))
+- Total citations: 671+, h-index: 15 ([Google Scholar](https://scholar.google.de/citations?user=Q_3Ayi8AAAAJ&hl=de))
 
 ## Publications
 
