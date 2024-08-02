@@ -1,28 +1,79 @@
 ---
 layout: single
-classes: wide
-title: Dr. Jianhui Xu
+classes: normal
+title: Jianhui Xu (许建辉)
 permalink: /about/
 author_profile: true
-toc: false
+toc: true
 toc_sticky: true
 ---
 
-I'm a senior researcher ([CV](https://jh-xu.github.io/jianhui-xu.github.io/cv.pdf)) at the [RWTH Aachen University](https://www.ifk.rwth-aachen.de/cms/IFK/Das-Institut/Mitarbeiter/Aussenstelle-im-MLZ-FRM-II-Garching/~sqpzl/Jianhui-Xu/lidx/1/). Before this, I worked as a Research Scientist in [Helmholtz-Zentrum Berlin](https://www.helmholtz-berlin.de/) and [Technische Universität München](https://www.tum.de/). I have obtained my Ph.D degree in condensed matter physics in Department of Physics of [Technische Universität Berlin](https://www.tu.berlin/), Germany.
+## Senior Researcher, RWTH Aachen University
+
+My name is Jianhui Xu, [Jyen Hway Shoo]. It is Chinese name, natively written as 许建辉. I was born and grew up in China, and moved to Germany in 2013.
+
+Currently, I am a senior researcher with extensive experience in experimental design and data modeling and analysis, currently affiliated with [RWTH Aachen University](https://www.ifk.rwth-aachen.de/cms/IFK/Das-Institut/Mitarbeiter/Aussenstelle-im-MLZ-FRM-II-Garching/~sqpzl/Jianhui-Xu/lidx/1/). I hold a Ph.D. in Physics from the [Technical University Berlin](https://www.tu.berlin/) and have previously worked at [Helmholtz-Zentrum Berlin for Materials and Energy](https://www.helmholtz-berlin.de/), where I was recognized with a <b>Performance Premium Award</b>, and [Technical University München](https://www.tum.de/).
 
 ## Scientific Research
+My research focuses on uncovering novel quantum phenomena in magnetic materials, blending experimental and theoretical approaches. I design and conduct sophisticated experiments and leverage advanced data analysis and computational techniques, including mean field theory, Monte Carlo simulations, and machine learning. For instance, my work on Nd<sub>2</sub>Zr<sub>2</sub>O<sub>7</sub> uncovered the quantum spin ice state and Higgs transition, demonstrating my ability to solve complex problems and generate impactful insights [Publication](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.097203) [Blog](/posts/Monte-Carlo-and-molecular-dynamics-simulations).
 
-I investigate quantum phenomena in magnetic materials: discover novel states and properties of matter; test and challenge the current theory we are relying on for understanding. Nearly half of my time is spent on conceiving new projects, designing and performing effective experiments and the other half spent on analysing data, testing theoretical models and developing new theories together with theoreticians. 
+## Data Science
+My passion for data science stems from my extensive experience in research and my fascination with uncovering insights from both trivial and complex data. During my academic career, I have consistently applied advanced data analysis and computational techniques to solve complex problems in quantum material investigations. This experience has solidified my belief in the power of data to drive innovation and discovery. To further my knowledge, I have completed several machine learning courses as well. I am eager to leverage my analytical abilities and technical expertise to tackle real-world challenges.
 
-Here is an example. We used neutron scattering experiments and mean field, Monte Carlo and numerically connected cluster expansion to study and understand the properties of Nd<sub>2</sub>Zr<sub>2</sub>O<sub>7</sub> which contains the magnetic ion Nd<sup>3+</sup> forming a network of corner sharing tetrahedra with competing interactions and discovered quantum spin ice state and Higgs transition ([published here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.097203)).
+### Projects
+1. Optimization via exhaustive fitting to four-dimensional 100<sup>+</sup> GB data [Publication](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.144420)
+    * Extract signals: background estimation, slicing and signal detection automatically
+    * Fit to highly nonlinear quantum model
+2. Identification of local patterns on a grid of correlated vectors [Blog](/posts/Machine-learning-correlations-of-vectors)
+    * Nonlinear-model fit to experimental data extracting vector configurations
+	* Unsupervised machine learning correlation patterns (Principal component analysis and K-Means)
+	* General statistical analyses of the vector directions and identify local patterns and their correlation lengths
+3. Monte Carlo study of spacial-temporal dynamical correlations [Publication](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.097203) [Blog](/posts/Monte-Carlo-and-molecular-dynamics-simulations)
+    * Find the ground state of a system using simulated annealing and parallel tempering
+    * Generating time-series data of vector configurations by integrating equation of motion using adaptive Runge-Kutta methods
+    * Fast numerical spacial-temporal Fourier transformations
+4. Mean field modeling of a frustrated magnetic system [Blog](/posts/Mean-field-calculation-for-spin-models)
+    * Fourier transformation of interactions on a periodic lattice
+	* Solve eigen problems
+	* Calculate observables and compare to measured data
 
-## Academic Highlights
+### Courses
+1. Machine learning (Stanford University) (24 hours)[Certificate](https://www.coursera.org/account/accomplishments/verify/4HSTNCXSDB8G)
+    * Covered: Regression, Neural network, SVM, PCA, K-Means
+2. Deep learning specialist (Stanford University) (125 hours)[Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/UAGPLYVXAP6Q), including 5 courses:
+    * Neural networks and deep learning (24 hours) [Certificate](https://www.coursera.org/account/accomplishments/verify/PXGZCHCB8T9Y)
+    * Improving deep neural networks (23 hours) [Certificate](https://www.coursera.org/account/accomplishments/verify/YKW2U8HEC6EA)
+    * Structuring machine learning projects (6 hours)[Certificate](https://www.coursera.org/account/accomplishments/verify/GZ4K24CNRT9G)
+    * Convolutional neural networks (35 hours) [Certificate](https://www.coursera.org/account/accomplishments/verify/AUDVVA9U9WDN)
+    * Sequence models (37 hours) [Certificate](https://www.coursera.org/account/accomplishments/records/7M8PUSNM9TME)
+3. Databases and SQL for data science (IBM) (20 hours)[Certificate](https://www.coursera.org/account/accomplishments/verify/PXYEM9B7HUDX)
+4. Course projects：
+    * Hand-written number recognition
+    * Face recognition
+    * Neural style transfer
+    * Natural language processing using Keras and Tensorflow
+	
+## Awards and Highlights
+- Performance Premium: Helmholtz-Zentrum Berlin, Germany (2019)
+- Chenhuxiong Scholarship (top 20%): Peking University, China (2012)
+- National Scholarship (top 5%): Shanxi Datong University, China (2018)
+- Journal Papers: 29, including Nature Physics, Science Advances, Physical Review Letters.
+- Total citations: 671+, h-index: 15 [Google Scholar](https://scholar.google.de/citations?user=Q_3Ayi8AAAAJ&hl=de)
 
-- Journal papers: 29, including Nature Physics, Science Advances, Physical Review Letters.
-- Total citations: 671+, h-index: 15 ([Google Scholar](https://scholar.google.de/citations?user=Q_3Ayi8AAAAJ&hl=de))
+## Public Speaking
+11. 2023, Talk, Joint European Magnetic Symposia 2023, Madrid, Spain.
+10. 2022, Invited talk, LLB-MLZ workshop, Paris, France.
+9. 2022, Talk, MORIS user workshop, Munich, Germany.
+8. 2021, Invited talk, Neutron optics group meeting at Heinz Maier-Leibnitz Zentrum, Germany.
+7. 2021, Invited talk, Seminar at the optical condensed matter group, Cologne University, Germany.
+6. 2020, Invited talk, Augusburg Univeristy, Germany.
+5. 2020, Talk, MLZ user Meetings 2020 (online), Garching, Germany.
+4. 2019, Invited talk, Quantum phenomena group meeting at Heinz Maier-Leibnitz Zentrum, Germany.
+3. 2018, Talk, DPG Spring Meetings 2018, Berlin, Germany.
+2. 2015, Invited talk, Seminar at Center for Applied Magnetism, Peking University, Beijing, China.
+1. 2012, Talk, 12th Panalytical China User Club Meeting, Hangzhou, China.
 
 ## Publications
-
 <ol reversed>
 
     <li>X. Wang, F. Zhu, X. Yang, M. Meven, X. Mi, C. Yi, J. Song, T. Müller, W. Schmidt, K. Schmalzl, E. Ressouche, <b>Jianhui Xu</b>, M. He, Y. Shi, W. Feng, Y. Mokrousov, S. Blügel, G. Roth, T. Brückel, and Y. Su, <br/> <i> Flat band-engineered spin-density wave in the correlated topological semimetal Mn<sub>3</sub>Sn </i>, <a href="https://arxiv.org/abs/2306.04312">arXiv:2306.04312</a>.</li>
@@ -77,10 +128,10 @@ Here is an example. We used neutron scattering experiments and mean field, Monte
 
 	<li> <b>Jianhui Xu</b>, X. Liu, Y. Xia, W. Yang, H. Du, J. Yang, Y. Zhang, Y. Yang, <br/> <i>Magnetic properties and magnetocaloric effect of (Mn<sub>1-x</sub>Fe<sub>x</sub>)<sub>5</sub>Sn<sub>3</sub> (x=0–0.5) compounds</i>, <a href="http://scitation.aip.org/content/aip/journal/jap/113/17/10.1063/1.4798308">J. Appl. Phys. 113, 17A921 (2013)</a>.</li>
 
-	<li> <b>Jianhui Xu</b>, Y. Xia, W. Yang, H. Du, J. Yang, C. Wang, J. Han, S. Liu, Y. Yang, <br/> <i>The evolution of the magnetic phases of Sb-doped Mn<sub>5</sub>Sn<sub>3</sub> compounds</i>, <a href="http://scitation.aip.org/content/aip/journal/jap/113/17/10.1063/1.4793770">J. Appl. Phys., 113, 17E111 (2013)}</a>.</li>
+	<li> <b>Jianhui Xu</b>, Y. Xia, W. Yang, H. Du, J. Yang, C. Wang, J. Han, S. Liu, Y. Yang, <br/> <i>The evolution of the magnetic phases of Sb-doped Mn<sub>5</sub>Sn<sub>3</sub> compounds</i>, <a href="http://scitation.aip.org/content/aip/journal/jap/113/17/10.1063/1.4793770">J. Appl. Phys., 113, 17E111 (2013)</a>.</li>
 
 	<li> Yuanhua Xia, Honglin Du, <b>Jianhui Xu</b>, Yan Zhang, Changsheng Wang, Jinbo Yang, Xiangzhen Han, Kai Sun, <br/> <i>Crystal structure and magnetic properties of DyCu<sub>x</sub>Ga<sub>2-x</sub> (x = 0-2) antiferromagnetic compounds</i>, <a href="http://www.sciencedirect.com/science/article/pii/S0925838811018834">J. Alloys Compd., 512(1), 212 (2012)</a>.</li>
 
-	<li> Yuanhua Xia, Honglin Du, <b>Jianhui Xu</b>, Yan Zhang, Changsheng Wang, Jingzhi Han, Shunquan Liu, Qing Xu, Jinbo Yang, <br/> <i>The magnetic and magnetocaloric properties of NdFe<sub>12-x</sub>Mo<sub>x</sub> compounds</i>, <a href="http://scitation.aip.org/content/aip/journal/jap/111/7/10.1063/1.3680204">J. Appl. Phys., 111(7), 07A949 (2012)}</a>.</li>
+	<li> Yuanhua Xia, Honglin Du, <b>Jianhui Xu</b>, Yan Zhang, Changsheng Wang, Jingzhi Han, Shunquan Liu, Qing Xu, Jinbo Yang, <br/> <i>The magnetic and magnetocaloric properties of NdFe<sub>12-x</sub>Mo<sub>x</sub> compounds</i>, <a href="http://scitation.aip.org/content/aip/journal/jap/111/7/10.1063/1.3680204">J. Appl. Phys., 111(7), 07A949 (2012)</a>.</li>
 
 </ol>

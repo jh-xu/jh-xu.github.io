@@ -6,3 +6,24 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+.page__content {
+	  p,
+	  li,
+	  dl {
+	    font-size: 0.8em;
+	  }
+}
+
+a {
+    color: #005fb8;
+    text-decoration: underline;
+	&:visited {
+	    color: #00376b;
+	}
+	&:hover {
+	    color: #00376b;
+        text-decoration: underline;
+      }
+}

@@ -1,13 +1,16 @@
 ---
 title: "Monte Carlo and molecular dynamics simulations"
+permalink: "/posts/Monte-Carlo-and-molecular-dynamics-simulations"
 header:
   teaser: /assets/images/spin_procession_fm.png
-excerpt: "Thermal equilibrium state and dynamics study"
+excerpt: "Thermal equilibrium state and spin dynamics study using Monte Carlo simulations in Python"
 date: September 09, 2020
+show_date: true
 toc: true
 toc_sticky: true
 toc_label: "Content"
 comments: false
+related: true
 tags:
   - Monte Carlo
   - Simulated annealing

@@ -1,13 +1,16 @@
 ---
 title: "Machine learning correlations of vectors"
+permalink: "/posts/Machine-learning-correlations-of-vectors"
 header:
   teaser: /assets/images/gho_spins.png
-excerpt: "Applying machine learning to condensed matter physics"
+excerpt: "Machine learning spin vector correlations in Python"
 date: June 30, 2021
+show_date: true
 toc: true
 toc_sticky: true
 toc_label: "Content"
 comments: false
+related: true
 tags:
   - Machine Learning
   - Principal component analysis

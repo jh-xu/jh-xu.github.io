@@ -16,12 +16,13 @@ title_separator          : "-"
 name                     : "Jianhui Xu"
 description              : "Physicist with a Ph.D. degree"
 logo                     : "/assets/images/site_logo.png"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jh-xu.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+enable_copy_code_button  : true
 comments:
   provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -159,8 +160,8 @@ author:
 include:
   - .htaccess
   - _pages
-  - _researches
   - _posts
+  - _researches
 exclude:
   - /_posts/2019-08-30-Principle component analysis and K-means clustering of correlated vectors on a lattice.md
   - "*.sublime-project"
@@ -291,6 +292,7 @@ compress_html:
 
 
 # Defaults
+
 defaults:
   # _posts
   - scope:
@@ -302,7 +304,7 @@ defaults:
       read_time: false
       comments: false
       share: false
-      related: false
+      related: true
       mathjax: true
   # _researches
   - scope:

@@ -2,12 +2,14 @@
 title: "Easy parking"
 header:
   teaser: /assets/images/parking_para0.png
-excerpt: "Mathematica code for visualizing the car steering and parking"
+excerpt: "Mathematica simulations for visualizing the car steering and parking"
 date: August 08, 2019
+show_date: true
 toc: true
 toc_sticky: true
 toc_label: "Content"
 comments: false
+related: true
 tags:
   - Mathematica
   - Driving
