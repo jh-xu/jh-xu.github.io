@@ -2,8 +2,8 @@
 title: "Mean field calculation for spin models"
 permalink: "/posts/Mean-field-calculation-for-spin-models"
 header:
-  teaser: /assets/images/mf_Sq.png
-excerpt: "Mean field calculation of spin models in Python"
+  teaser: /assets/images/mf_sq.png
+excerpt: "Mean field calculation of spin models"
 date: August 08, 2022
 show_date: true
 toc: true
@@ -230,7 +230,7 @@ plt.show()
 {% endhighlight %}
 </details>
 
-{% include figure popup=true image_path="/assets/images/mf_sq.png" alt="mf_Sq" width="50%" caption="The calculated structure factor for a pyrochlore antiferromagnt." %}
+{% include figure popup=true image_path="/assets/images/mf_sq.png" alt="mf_sq" width="50%" caption="The calculated structure factor for a pyrochlore antiferromagnt." %}
 
 ## Summary
 
