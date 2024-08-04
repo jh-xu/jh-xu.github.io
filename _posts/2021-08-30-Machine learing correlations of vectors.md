@@ -17,28 +17,28 @@ tags:
   - KMeans
   - Magnetic correlations
   - Python
-gallery0:
+gallery1:
   - url: /assets/images/gho_spins.png
     image_path: /assets/images/gho_spins.png
     alt: "spin plot"
-gallery00:
+gallery2:
   - url: /assets/images/gho_spins_file.png
     image_path: /assets/images/gho_spins_file.png
     alt: "spin file"
-gallery1:
-  - url: /assets/images/gho_pca_projection.png
-    image_path: /assets/images/gho_pca_projection.png
-    alt: "PCA projection"
-gallery2:
+gallery3:
   - url: /assets/images/gho_pca_eigenvalues.png
     image_path: /assets/images/gho_pca_eigenvalues.png
     alt: "PCA eigenvalues"
     size: "2"
-gallery3:
+gallery4:
+  - url: /assets/images/gho_pca_projection.png
+    image_path: /assets/images/gho_pca_projection.png
+    alt: "PCA projection"
+gallery5:
   - url: /assets/images/gho_kmeans_num_clusters.png
     image_path: /assets/images/gho_kmeans_num_clusters.png
     alt: "KMeans numbers of clusters"
-gallery4:
+gallery6:
   - url: /assets/images/gho_kmeans_pca_projection_clusters.png
     image_path: /assets/images/gho_kmeans_pca_projection_clusters.png
     alt: "Spin dispersion"
@@ -46,7 +46,7 @@ gallery4:
 
 How could one identify the correlation patterns of the vectors uniformly distributed on a grid as shown in the image below? Instead of checking by eyes or matching different patterns speculated, unsupervised machine learning was applied which appears to be simpler, more efficient and more reliable.
 
-{% include gallery id="gallery0" caption="Vectors distributed on a network of corner-sharing tetrahedra." %}
+{% include gallery id="gallery1" caption="Vectors distributed on a network of corner-sharing tetrahedra." %}
 
 ## Loading and visualizing the data
 
@@ -54,7 +54,7 @@ There are 50 independent datasets and each dataset contains 3456 vectors. Becaus
 
 Therefore, it convenient to store the data in a multi-dimensional array of Numpy. The shape of arrays storing the vector positions and vector directions are `[50, 6, 6, 6, 16, 3]`. The vector configuration can be visualized using the VPython (see the figure above).
 
-{% include gallery id="gallery00" caption="Overview of a data file showing the header and a part of the data." %}
+{% include gallery id="gallery2" caption="Overview of a data file showing the header and a part of the data." %}
 
 <details>
 <summary>Python code</summary>
@@ -191,7 +191,7 @@ The matrix was fed to the standard PCA algorithm of the SciKit-Learn packages. T
 
 Additionally, the analyses at the level of the unit cell reveals a similar result except that the three dominant principle components explain less variance ($$\sim10\%$$) due to the short-range nature of the correlations and the averaging effect.
 
-{% include gallery id="gallery2" caption="Sorted eigenvalues from the principal component analysis of the vector configurations at the level of tetrahedron and unit cell." %}
+{% include gallery id="gallery3" caption="Sorted eigenvalues from the principal component analysis of the vector configurations at the level of tetrahedron and unit cell." %}
 
 <details>
 <summary>Python code</summary>
@@ -215,7 +215,7 @@ print(pca.mean_)
 
 The vector configurations of the clusters can be conveniently projected into the three-dimensional space formed by the first three principal components (figure below). In the figure, each point represents a vector configuration on a single tetrahedron and the color indicates the density of points in respective regions. We can see that the points are mostly distributed on a spherical surface as a result of the fixed length of vectors and there are six high-density regions. Three are visible in the current view and the other three are on the back side of the sphere.
 
-{% include gallery id="gallery1" caption="Vector configurations on single tetrahedra presented by the three dominant principal components (PC). Every point represents a vector configuration on a tetrahedron. The lower left inset shows a cross section, the (1,1,1) plane at the origin." %}
+{% include gallery id="gallery4" caption="Vector configurations on single tetrahedra presented by the three dominant principal components (PC). Every point represents a vector configuration on a tetrahedron. The lower left inset shows a cross section, the (1,1,1) plane at the origin." %}
 
 <details>
 <summary>Python code</summary>
@@ -268,7 +268,7 @@ The centers of the high-density regions were of interests because they stands fo
 ### Analysis
 K-Means analyses with different number of clusters results in a elbow-shaped curve for the within-cluster sum of the squared distance. The six clusters were indeed identified and their coordinates can be obtained accordingly. The corresponding vector configurations on the tetrahedra in the original `xyz` coordinate system can be calculated by linear combinations of the three principal components with the coordinates of the centers as the corresponding coefficients. The vector configuration is found to the [Palmer-Chalker](https://doi.org/10.1103/PhysRevB.62.488) type predicted for the pyrochlore antiferromagnet with dipole-dipole interactions.
 
-{% include gallery id="gallery3" caption="Within-cluster sum of the distance squared ploted as function of the number of clusters." %}
+{% include gallery id="gallery5" caption="Within-cluster sum of the distance squared ploted as function of the number of clusters." %}
 
 <details>
 <summary>Python code</summary>
@@ -319,7 +319,7 @@ print(repr(np.round(normed).astype(int)))
 
 The three clusters and the corresponding vector configurations in the real space are shown in the following figure. There remaining three clusters on the back side represent the vector configurations with reversed directions of the three visible one.
 
-{% include gallery id="gallery4" caption="Clusters from K-Means shown in different colors with the corresponding vector configuration in the real space." %}
+{% include gallery id="gallery6" caption="Clusters from K-Means shown in different colors with the corresponding vector configuration in the real space." %}
 
 <details>
 <summary>Python code</summary>
