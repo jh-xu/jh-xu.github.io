@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://jh-xu.github.io/</loc>
+	<lastmod>2024-08-26T23:12:52+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://jh-xu.github.io/about/</loc>
+	<lastmod>2024-08-26T23:12:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://jh-xu.github.io/posts/</loc>
+	<lastmod>2024-08-26T23:12:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://jh-xu.github.io/researches/</loc>
+	<lastmod>2024-08-26T23:12:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://jh-xu.github.io/posts/Mean-field-calculation-for-spin-models</loc>
+	<lastmod>2024-08-26T23:12:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://jh-xu.github.io/posts/Machine-learning-correlations-of-vectors</loc>
+	<lastmod>2024-08-26T23:12:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://jh-xu.github.io/posts/Monte-Carlo-and-molecular-dynamics-simulations</loc>
+	<lastmod>2024-08-26T23:12:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://jh-xu.github.io/posts/Easy-parking</loc>
+	<lastmod>2024-08-26T23:12:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://jh-xu.github.io/researches/prb2019/</loc>
+	<lastmod>2024-08-26T23:12:54+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://jh-xu.github.io/researches/prl2020/</loc>
+	<lastmod>2024-08-26T23:12:54+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://jh-xu.github.io/tags/</loc>
+	<lastmod>2024-08-26T23:12:54+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
