@@ -1,5 +1,6 @@
 ---
 title: "Easy parking"
+permalink: "/posts/Easy-parking"
 header:
   teaser: /assets/images/parking_para0.png
 excerpt: "Mathematica simulations for visualizing the car steering and parking"
