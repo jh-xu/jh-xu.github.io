@@ -128,11 +128,11 @@ author:
   avatar           : "/assets/images/portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD in Physics"
   location         : "Munich"
-  email            : "j.h.xu@outlook.com" #"jhxupku@gmail.com"
+  email            : "jianhui.m.xu@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:jhxupku@gmail.com"
+      # url: "mailto:jianhui.m.xu@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://jh-xu.github.com/jianhui-xu.github.io"
