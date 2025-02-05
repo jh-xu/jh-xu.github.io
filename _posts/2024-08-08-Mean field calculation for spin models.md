@@ -4,7 +4,7 @@ permalink: "/posts/Mean-field-calculation-for-spin-models"
 header:
   teaser: /assets/images/mf_sq.png
 excerpt: "Mean field calculation of spin models in Python"
-date: August 08, 2022
+date: August 08, 2024
 show_date: true
 toc: true
 toc_sticky: true

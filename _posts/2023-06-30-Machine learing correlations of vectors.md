@@ -4,7 +4,7 @@ permalink: "/posts/Machine-learning-correlations-of-vectors"
 header:
   teaser: /assets/images/gho_spins.png
 excerpt: "Machine learning spin vector correlations in Python"
-date: June 30, 2021
+date: June 30, 2023
 show_date: true
 toc: true
 toc_sticky: true
