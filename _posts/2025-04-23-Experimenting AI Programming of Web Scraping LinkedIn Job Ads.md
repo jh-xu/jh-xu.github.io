@@ -1,6 +1,6 @@
 ---
 title: "Experimenting AI programming: web scraping LinkedIn job ads"
-permalink: "/posts/Experimenting-AI-programming of web-scraping-LinkedIn-job-ads"
+permalink: "/posts/Experimenting-AI-programming for web-scraping-LinkedIn-job-ads"
 header:
   teaser: /assets/images/web_scraping_linkedin_ads.png
 excerpt: "AI programming"
