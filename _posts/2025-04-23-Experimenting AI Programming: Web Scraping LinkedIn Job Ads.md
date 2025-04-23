@@ -56,7 +56,7 @@ If a link is broken or an element isn’t found, the script logs an error messag
 
 This workflow ensures that every job application you’ve made is backed up with a visual snapshot, which you can refer to during interview prep—even if the original posting disappears from LinkedIn.
 
-{% include gallery id="gallery2" caption="Screen recording during the web scraping" %}
+{% include gallery id="gallery2" caption="Screen recording for the web scraping" %}
 
 ## Step 1: Setting Up the Environment
 
